@@ -1,0 +1,2 @@
+git+https://github.com/acheong08/ChatGPT.git
+requests
